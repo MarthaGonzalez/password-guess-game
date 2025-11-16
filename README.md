@@ -1,9 +1,7 @@
 # password-guess-game
-Création d'un script Python qui permet d’évaluer la robustesse des mots de passe
-# password-guess-game
 
 Projet d'activité collaborative GitHub (SRC — DevOps & Git).
-
+Création d'un script Python qui permet d’évaluer la robustesse des mots de passe
 ## Objectifs
 - Pratiquer GitHub en équipe : branches, commits, push, Pull Requests, revue, merge, résolution de conflits.
 - Améliorer un script Python simple par itérations.
